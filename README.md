@@ -31,9 +31,3 @@ R A Milon is a skilled and dedicated WordPress developer from Bangladesh who has
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=arfinmilondev)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub metrics](https://metrics.lecoq.io/arfinmilondev)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=arfinmilondev)  
-
