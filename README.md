@@ -17,7 +17,20 @@ I specialize in developing premium WordPress themes and plugins, with strong att
 - 🚀 Focus on performance, SEO, and scalable architecture  
 
 ---
+## 🧑‍💻 Core Responsibilities & Expertise
 
+- WordPress Theme Development (from scratch & advanced customization)  
+- Maintain & update Themes & Plugins for ThemeForest & WordPress.org  
+- WordPress Theme Customization based on client requirements  
+- Website Design using Elementor Page Builder  
+- Developing Custom WordPress themes from Figma Design
+- Designing & developing complete WooCommerce stores  
+- Client Management, Communication & Technical Support  
+- Strong familiarity with version control systems like Git  
+- Ability to follow guidelines, workflows and handle pressure  
+- Solid understanding of WordPress Actions, Hooks, Custom Queries, and Meta Fields  
+- Requirement Analysis & Delivering well-structured solutions
+  
 ## 🛠️ Technical Skills
 
 ### 💻 Languages
