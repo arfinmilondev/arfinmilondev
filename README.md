@@ -106,9 +106,10 @@ Here are some of my published premium WordPress themes:
 
 ## 🤝 What I Can Help With
 
-- Custom WordPress Theme Development  
+- Custom WordPress Theme Development
+- aDirectory Plugin & Theme Develop & Customization
+- Figma to WordPress Theme Development   
 - WooCommerce Store Development & Optimization  
-- FIgma to WordPress Theme 
 - Performance Tuning & SEO Improvements  
 
 ---
