@@ -1,34 +1,124 @@
-# 👋 Hi, I'm R A Milon!
+# 👋 Hi, I'm R A Milon
 
-I’m a **WordPress Developer** specializing in crafting premium themes for **Themeforest**. Since 2019, I’ve been building beautiful, functional, and reliable WordPress solutions designed to enhance user experience and streamline functionality.
+🚀 WordPress Developer | ThemeForest Theme Developer | WooCommerce Specialist | aDirectory Theme Development Expert
 
-## 💻 About Me
-- 🌟 **Expertise in:** PHP, HTML, CSS, JavaScript
-- 🔧 **Proficient with:** WordPress plugins like **Elementor**,**Elementsready**, **WooCommerce**, **mailchimp**,**aDirectory**,**Wp Rocket** and many more popular plugins.
-- 🛠️ Focused on creating themes that are both visually appealing and easy to use
+I’m a professional WordPress Developer with 4+ years of experience building high-quality, scalable, and performance-focused websites.  
+I specialize in developing premium WordPress themes and plugins, with strong attention to clean code, UX, and modern WordPress standards, including advanced expertise in aDirectory theme ecosystem development.
 
-## 🔭 What I Do
-As a Themeforest author, I develop WordPress themes that seamlessly integrate with powerful plugins, ensuring compatibility and exceptional performance for a wide range of users.
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-</p>
-
-## 💬 Let’s Connect
-Reach out to me for:
-- Custom WordPress Theme Development
-- WooCommerce and Elementor-based Projects
-- Theme Optimization and Plugin Integration
-
-- 📫 How to reach me: milon.gobdgo@gmail.com 
 ---
 
-Let's build your next great project together! 🚀
+## 🔥 Key Highlights
 
+- 🧩 Built **10+ premium WordPress themes** published on ThemeForest  
+- 🏗️ Developed **aDirectory – Advanced WordPress Directory Theme**  
+- 🛒 Strong expertise in **WooCommerce development & customization**  
+- 🎯 Pixel-perfect frontend development (Figma → WordPress)  
+- ⚙️ Custom Elementor plugin development & API integrations  
+- 🚀 Focus on performance, SEO, and scalable architecture  
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Languages
+`PHP` · `JavaScript` · `HTML5` · `CSS3` · `Sass`
+
+### ⚡ WordPress Expertise
+- Custom Theme Development (From Scratch)
+- ThemeForest / Envato Standards Compliance
+- WooCommerce Customization
+- Elementor Custom Plugin Development
+- Hooks, Actions, Meta Fields, Custom Queries
+
+### 🧰 Tools & Workflow
+`WordPress` · `WooCommerce` · `Elementor` · `Git` · `GitHub` · `Figma` . `aDirectory`
+
+### 🔌 Additional Skills
+- REST API Integration  
+- Performance Optimization  
+- SEO Best Practices  
+- Responsive & Cross-browser Design  
+
+---
+
+## 🧑‍💻 aDirectory Project
+
+🚀 A powerful WordPress directory ecosystem developed for multiple industries.
+
+- 🍔 Restaurant Directory – Fodstar  
+  https://adirectory.io/demo/fodstar/
+
+- 🏢 Business Directory – Bizlist  
+  https://adirectory.io/demo/bizlist/
+
+- 🏠 Real Estate Directory – Aanir  
+  https://adirectory.io/demo/aanir/
+
+- 🏨 Hotel Directory – Hotelsun  
+  https://adirectory.io/demo/hotelsun/
+
+- 🩺 Doctor Listing – Doclist  
+  https://adirectory.io/demo/doclist/
+
+- ⚖️ Lawyer Directory – Advoco  
+  https://adirectory.io/demo/advoco
+
+- 🛠️ Service Marketplace – Servisto  
+  https://adirectory.io/demo/servisto/
+
+- 💼 Job Board System – JobFind  
+  https://adirectory.io/demo/jobfind/
+
+---
+
+## 🧑‍💻 ThemeForest Portfolio
+
+Here are some of my published premium WordPress themes:
+
+- 🔗 Antech – IT Solutions & Technology  
+  https://themeforest.net/item/antech-it-solutions-technology-wordpress-theme/39062452  
+
+- 🔗 Indusra – Construction Theme  
+  https://themeforest.net/item/indusra-construction-wordpress-theme/47439045  
+
+- 🔗 AAI – AI Writing Tool Theme  
+  https://themeforest.net/item/aai-ai-writing-tool-content-writing-landing-page-theme/46788290  
+
+- 🔗 Fallow – Personal Portfolio Theme  
+  https://themeforest.net/item/fallow-personal-portfolio-wordpress-theme/46085235  
+
+- 🔗 Bizpa – Creative Agency Theme  
+  https://themeforest.net/item/bizpa-creative-agency-wordpress-theme/45459651  
+
+- 🔗 Aggen – Business Consulting Theme  
+  https://themeforest.net/item/aggen-business-consulting-wordpress-theme/44558028  
+
+- 🔗 Techmia – IT Consulting Elementor Theme  
+  https://themeforest.net/item/techmia-it-consulting-service-elementor-wordpress-theme/51580829  
+
+- 🔗 Quland – Multipurpose Elementor Theme  
+  https://themeforest.net/item/quland-multipurpose-elementor-wordpress-theme/51559459
+
+- 🏠 Homeco – Real Estate & Directory Listing Theme  
+  https://themeforest.net/item/homeco-real-estate-directory-listing-wordpress-theme/48632721  
+
+---
+
+## 🤝 What I Can Help With
+
+- Custom WordPress Theme Development  
+- WooCommerce Store Development & Optimization  
+- FIgma to WordPress Theme 
+- Performance Tuning & SEO Improvements  
+
+---
+
+## 📫 Contact
+
+📧 Email: milon.gobdgo@gmail.com  
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy turning complex ideas into clean, scalable WordPress products that actually perform and sell 💡
